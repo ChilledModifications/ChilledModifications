@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChilledModifications
 - 👀 I’m interested in | CYber security, Modification, Game Extention Development
 - 🌱 I’m currently | learning Developing using LUA, Javascript, 
-- 💞️ I’m looking to | collaborate on _Not right now :)_
+- 💞️ I’m looking to collaborate on | _Not right now :)_
 - 📫 How to reach me | You cant right now
 
 <!---
